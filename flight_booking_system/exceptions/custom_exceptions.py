@@ -1,5 +1,5 @@
 class FlightFullException(Exception):
-    raise NotImplementedError
+    pass
 
 class BookingNotFoundException(Exception):
-    raise NotImplementedError
+    pass
