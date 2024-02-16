@@ -1,0 +1,26 @@
+{
+    "97487": {
+        "booking_id": "97487",
+        "origin": "Madrid",
+        "destination": "Sevilla",
+        "passenger_name": "Oleg",
+        "flight_time": "2024-02-18 21:15",
+        "seats": [
+            "4D",
+            "15E",
+            "18D"
+        ],
+        "booking_code": "Q4RI28"
+    },
+    "23969": {
+        "booking_id": "23969",
+        "origin": "Kazan",
+        "destination": "Barcelona",
+        "passenger_name": "Mikhail",
+        "flight_time": "2024-02-29 18:52",
+        "seats": [
+            "13B"
+        ],
+        "booking_code": "CEI3PR"
+    }
+}
