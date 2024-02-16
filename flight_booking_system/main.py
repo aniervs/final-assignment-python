@@ -1,7 +1,9 @@
-from services.flight_service import add_flight
+import streamlit as st
 
 def main():
-    raise NotImplementedError
+    # Your streamlit app code here
+    st.title("Flight Booking System")
+    # Rest of your streamlit app code
 
 if __name__ == "__main__":
     main()
