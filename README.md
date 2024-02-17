@@ -1,14 +1,12 @@
 # Final-assignment-python
 
-The given code has some kind of template for a system that books flights.
-It has missing implementations as well as tiny bugs in some files.
+ # Flight Booking System
 
-1. Implement the missing things on the backend and fix the bugs.
-2. Make a simple streamline app that allows you to see the flights and delete a flight or book a flight.
-3. BONUS: Nice visualizations of the maps of the flight
+This is a simple Flight Booking System built using Streamlit in Python. Users can add new flights, book flights, cancel bookings, and view available flights.
 
-You've got to submit via a Pull Request.
-1. Fork
-2. Clone your fork
-3. Push
-4. Make a PR to my repository
+## Features
+- Add a new flight with flight number, origin, destination, departure time, and capacity
+- Book a flight by providing booking ID and passenger name
+- Cancel a booking by providing the booking ID
+- View available flights
+### it is not complete yet
