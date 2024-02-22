@@ -1,0 +1,3 @@
+flight_number,departure_city,destination_city,departure_date,capacity,bookings
+111,Amsterdam,Belgrade,2024-02-19,1,0
+123,Amsterdam,Belgrade,2024-02-19,1,0
